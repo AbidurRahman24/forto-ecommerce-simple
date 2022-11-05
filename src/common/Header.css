@@ -1,0 +1,15 @@
+input.w-full.md\:w-auto.searchInput {
+    width: 750px;
+}
+.cart span {
+    position: absolute;
+    top: -10px;
+    right: 0px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #e94560;
+    font-size: 12px;
+    color: #fff;
+  }
